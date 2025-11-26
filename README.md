@@ -6,7 +6,7 @@
 
 A small Wordle inspired CLI game written in Rust.
 
-It picks a secret word from `words.txt`, then you try to guess it in a limited number of attempts, getting feedback after each guess.  [oai_citation:1‡GitHub](https://github.com/Fabio1909/Rust_Wordle_CLI)
+It picks a secret word from `words.txt`, then you try to guess it in a limited number of attempts, getting feedback after each guess.
 
 ## Requirements
 * Rust toolchain (install via rustup)
