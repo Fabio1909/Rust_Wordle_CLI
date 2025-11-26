@@ -1,5 +1,9 @@
 # Rust Wordle CLI
 
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![CLI](https://img.shields.io/badge/Type-CLI-blue)
+![Status](https://img.shields.io/badge/Project-Toy%20Project-8a2be2)
+
 A small Wordle inspired CLI game written in Rust.
 
 It picks a secret word from `words.txt`, then you try to guess it in a limited number of attempts, getting feedback after each guess.  [oai_citation:1‡GitHub](https://github.com/Fabio1909/Rust_Wordle_CLI)
